@@ -71,6 +71,9 @@ Usando como base os horários em que os clientes estão mais dispostos a fechar 
 Média Frete
 </h1>
 
+
+```bash
+```
 <p> 
 Um dos motivos mais certeiros para uma compra não ser finalizada é o valor do frete.
 
